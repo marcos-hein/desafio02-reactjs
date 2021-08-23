@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { Button } from "./Button";
 import { useMovies } from "../context/MoviesContext";
 
